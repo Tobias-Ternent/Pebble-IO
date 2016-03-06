@@ -1,0 +1,20 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "diginiti@gmail.com",
+    "enableMultiJS": false,
+    "longName": "IO",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "IO",
+    "uuid": "7b1f752e-495c-4a0b-98ef-72406a51fb7b",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
